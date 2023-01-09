@@ -9,6 +9,7 @@ const app = Vue.createApp({
   data() {
     return {
       text: "Ciao VUE",
+      pic: "https://e1.pxfuel.com/desktop-wallpaper/544/325/desktop-wallpaper-anime-programming-anime-programmer.jpg",
     };
   },
 });
