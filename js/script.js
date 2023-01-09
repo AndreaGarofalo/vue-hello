@@ -8,7 +8,7 @@ console.log("VUE OK", Vue);
 const app = Vue.createApp({
   data() {
     return {
-      text: " ",
+      text: "Ciao VUE",
     };
   },
 });
